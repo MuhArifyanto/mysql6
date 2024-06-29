@@ -2,7 +2,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Muhammad Nurul Firdaus|312310495|TI.23.A.5|Basis Data|
+|Muhammad Arif Mulyanto|312310359|TI.23.A.5|Basis Data|
 
 # Soal Latihan Praktikum ( Pegawai )
 
